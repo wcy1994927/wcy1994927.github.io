@@ -90,7 +90,7 @@ header .menu {
   display: none;
 }
 header .header-main {
-  background: #87CEFA;
+  background: #8DB6CD;
   height: 435px;
 }
 header h1 {
@@ -112,7 +112,7 @@ header h4 {
 #nav {
   width: 1020px;
   height: 350px;
-  background: #87CEFA;
+  background: #8DB6CD;
   margin: 0 auto;
   margin-top: -325px;
   box-shadow: 0 0 2px rgba(0,0,0,0.7);
