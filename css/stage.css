@@ -122,7 +122,15 @@ header h4 {
   width: 100%;
   overflow: hidden;
   cursor: pointer;
+  opacity: 1;
   background: url("/images/default-header.jpg");
+  position: relative;
+}
+#nav .nav-fish {
+  height: 300px;
+  width: 100%;
+  position: absolute;
+  opacity: 0.8;
 }
 #nav .sentences {
   width: 100%;
